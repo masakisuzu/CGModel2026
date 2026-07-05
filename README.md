@@ -12,7 +12,7 @@ TypeScriptで制作した3Dグラフィックスのシーン作品です
 - クリックしながらカーソル移動することで視点変更が可能です
 - マウスホイールで拡大縮小が可能です
 
-## 🔧 使用ライブラリ・権利表記
+## 🔧 使用ライブラリ
 - Three.js (https://threejs.org/)
 - Tween.js (https://github.com/tweenjs/tween.js)
 - simplex-noise (https://github.com/jwagner/simplex-noise.js)
